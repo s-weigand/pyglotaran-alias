@@ -8,7 +8,7 @@ pyglotaran==0.4.1
 
 # testing dependencies
 tox>=3.0.0
-pytest>=3.7.1
+pytest>=9.0.3
 pluggy>=0.7
 
 # code quality asurence
