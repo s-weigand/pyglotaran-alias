@@ -7,7 +7,7 @@ pyglotaran==0.4.1
 
 
 # testing dependencies
-tox>=3.0.0
+tox>=4.53.0
 pytest>=3.7.1
 pluggy>=0.7
 
