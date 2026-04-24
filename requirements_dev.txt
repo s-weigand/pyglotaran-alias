@@ -1,6 +1,6 @@
 # general install dependencies
 pip>=18.0
-wheel>=0.30.0
+wheel>=0.47.0
 
 # glotaran setup dependencies
 pyglotaran==0.4.1
