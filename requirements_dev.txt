@@ -9,7 +9,7 @@ pyglotaran==0.4.1
 # testing dependencies
 tox>=3.0.0
 pytest>=3.7.1
-pluggy>=0.7
+pluggy>=1.6.0
 
 # code quality asurence
 pre-commit>=2.10.0
